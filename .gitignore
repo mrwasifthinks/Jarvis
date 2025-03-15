@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+jarvis.log
+
+# Dependencies
+node_modules/
+
+# Build
+dist/
+build/
+
+# Local development
+.DS_Store
+Thumbs.db
